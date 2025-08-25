@@ -9,8 +9,7 @@
 ---
 
 ### 🌍 More About Me  
-- [LinkedIn](https://www.linkedin.com/in/ramzankm92/)  
-- [TryHackMe](https://tryhackme.com/p/ramzan92)  
-- [Dev.to](https://dev.to/ramzan92)  
+- [*LinkedIn*](https://www.linkedin.com/in/ramzankm92/)  
+- [*TryHackMe*](https://tryhackme.com/p/ramzan92)  
+- [*Dev.to*](https://dev.to/ramzan92)  
 
----
