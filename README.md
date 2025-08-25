@@ -1,10 +1,16 @@
-# Hi, I'M **Ramzan**
--
--
-*I’m learning Cyber Security,
-exploring areas like Ethical Hacking, Penetration Testing, and System Defense.
-I actively practice CTFs and real-world machines & labs, and I’ve worked with many Cyber Security and Ethical Hacking tools to build hands-on experience.*
+# Hi, I'm **Ramzan** 👋  
 
-### *currently pursuing Ceh v13*
--
-**📫**_How to reach me_: [_**linkedin**_](https://www.linkedin.com/in/ramzankm92/)
+💻 **Aspiring Cybersecurity Professional** | Penetration Testing | Ethical Hacking | System Defense  
+
+🔐 Learning Cybersecurity since **2022** — building hands-on skills through CTFs, labs, and real-world challenges.  
+🛠️ Experienced with a wide range of security tools and platforms.  
+🎯 Currently pursuing **CEH v13** to strengthen my foundation.  
+
+---
+
+### 🌍 More About Me  
+- [LinkedIn](https://www.linkedin.com/in/ramzankm92/)  
+- [TryHackMe](https://tryhackme.com/p/ramzan92)  
+- [Dev.to](https://dev.to/ramzan92)  
+
+---
