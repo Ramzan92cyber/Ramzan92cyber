@@ -1,7 +1,7 @@
 # Hi, I'M **Ramzan**
 -
 -
-### *I’m learning cybersecurity and exploring areas like ethical hacking, penetration testing, and system defense. I actively practice CTFs and real-world labs, and I’ve worked with many Cyber Security and Ethical Hacking tools to build hands-on experience.*
+### *I’m learning Cyber Security and exploring areas like Ethical Hacking, Penetration Testing, and System Defense. I actively practice CTFs and real-world machines & labs, and I’ve worked with many Cyber Security and Ethical Hacking tools to build hands-on experience.*
 -
 ### *currently pursuing Ceh v13*
 -
