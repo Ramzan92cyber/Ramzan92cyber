@@ -2,7 +2,8 @@
 
 💻 **Aspiring Cybersecurity Professional** | Penetration Testing | Ethical Hacking | System Defense  
 
-🔐 Learning Cybersecurity since **2022** — building hands-on skills through CTFs, labs, and real-world challenges.  
+🔐 Learning Cybersecurity since **2022** — building hands-on skills through CTFs, labs, and real-world challenges.
+
 🛠️ Experienced with a wide range of security tools and platforms.  
 
 ---
