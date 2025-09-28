@@ -14,4 +14,5 @@
 
 ---
 ### 🌍 More About Me :  
-   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramzankm92)   [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ramzan92)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramzankm92)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212121?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/ramzan92)
